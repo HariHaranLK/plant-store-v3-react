@@ -1,0 +1,15 @@
+.product-card {
+  border: 1px solid #ddd;
+  padding: 1em;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.product-card img {
+  width: 100px;
+  height: 100px;
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+}

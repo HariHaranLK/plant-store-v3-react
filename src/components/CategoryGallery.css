@@ -1,0 +1,10 @@
+.category-gallery {
+    margin: 2em 0;
+  }
+  
+  .plants-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
